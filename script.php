@@ -1,5 +1,5 @@
 <?php
-  function addNumbers($numbers) {
+  function add($numbers) {
   $sum = $a + $b;
   foreach($numbers as $number) {
     $sum += $number;
